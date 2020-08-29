@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/atml/static/css/main.0d6b8290.chunk.css",
+    "main.js": "/atml/static/js/main.8d714d3e.chunk.js",
+    "main.js.map": "/atml/static/js/main.8d714d3e.chunk.js.map",
+    "runtime-main.js": "/atml/static/js/runtime-main.3ecb3304.js",
+    "runtime-main.js.map": "/atml/static/js/runtime-main.3ecb3304.js.map",
+    "static/js/2.53667c35.chunk.js": "/atml/static/js/2.53667c35.chunk.js",
+    "static/js/2.53667c35.chunk.js.map": "/atml/static/js/2.53667c35.chunk.js.map",
+    "index.html": "/atml/index.html",
+    "precache-manifest.2ddc92dcf9dc838503b2f6fb5a31c150.js": "/atml/precache-manifest.2ddc92dcf9dc838503b2f6fb5a31c150.js",
+    "service-worker.js": "/atml/service-worker.js",
+    "static/css/main.0d6b8290.chunk.css.map": "/atml/static/css/main.0d6b8290.chunk.css.map",
+    "static/js/2.53667c35.chunk.js.LICENSE.txt": "/atml/static/js/2.53667c35.chunk.js.LICENSE.txt",
+    "static/media/atml_logo_60.png": "/atml/static/media/atml_logo_60.f6b68a4a.png",
+    "static/media/tipolo_leaf_trans.png": "/atml/static/media/tipolo_leaf_trans.30bf735c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ecb3304.js",
+    "static/js/2.53667c35.chunk.js",
+    "static/css/main.0d6b8290.chunk.css",
+    "static/js/main.8d714d3e.chunk.js"
+  ]
+}
